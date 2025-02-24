@@ -2,6 +2,10 @@
 
 This API provides access to county health data based on ZIP codes. It uses data from County Health Rankings & Roadmaps and RowZero Zip Code to County mappings.
 
+## Disclaimer & Acknowledgment
+
+This document was drafted with the assistance of Claude 3.5 Sonnet (within Windsurf), incorporating direct prompts and manual code and wording edits to refine the content.
+
 ## Setup
 
 1. Install dependencies:
